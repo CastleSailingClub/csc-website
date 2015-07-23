@@ -1,6 +1,6 @@
 *********************************************************************************
 * Filename:     howto.txt                                                       *
-* Version:      15.12.2013, 00:02hr                                             *
+* Version:      23.07.2015, 22:04hr                                             *
 * Author:       David Argles, daargles@gmail.com                                *
 * Description:  This file gives explains how the page template works.  The      *
 *               basic stuff can be found in "quickstart.txt"                    *
@@ -32,8 +32,8 @@ philosophy in readme.txt in the main directory!
 
  3) The class definition:
     ---------------------
-    The boilerplate page template is defined in the htmlPage class file 
-    (htmlPage.php) in the <library> directory.  This is brought in by the 
+    The boilerplate page template is called up in the htmlPage class file 
+    (htmlPage.class.php) in the <library> directory.  This is brought in by the 
     "require" line, and then activated by the "new htmlPage()" line.  Don't 
     mess with these lines!
  

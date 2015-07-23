@@ -1,6 +1,6 @@
 *********************************************************************************
 * Filename:     readme.txt                                                      *
-* Version:      14.12.2013, 23:36hr                                             *
+* Version:      23.07.2015, 21:57hr                                             *
 * Author:       David Argles, daargles@gmail.com                                *
 * Description:  Read Me file for the castlesailingclub.org.uk website. It       * 
 *               explains how the site works and how to maintain it.             *

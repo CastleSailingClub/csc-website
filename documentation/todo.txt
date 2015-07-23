@@ -5,7 +5,7 @@ Outstanding issues:
 * Weather widget(s) (see 12/12/13 23:19)
 * Tabbed sub-pages (see 14/12/13 22:08)
 ******************************************************************************************
-* Filename:      comments.txt
+* Filename:      todo.txt
 * Author:        David Argles (daargles@gmail.com)
 * Time/Date:     As below
 * Purpose:       Basically, this is intended as a "ToDo" file, but I'd like to record 
@@ -34,7 +34,7 @@ The following is a starting list of things that I reckon need doing at the momen
 * Add a forum
 
 Action: (15.12.2013@01:15h) Initial documentation completed.
-Action: (15.12.2013@01:16h) Error messages are swithced off. 
+Action: (15.12.2013@01:16h) Error messages are switched off. 
 +++
 end of file
 +++

@@ -8,6 +8,15 @@
 *               (2) to use this file as a "token" to note when one of us is updating stuff
 ******************************************************************************************
 
+Time: 	23-07-15, 22:08
+Coder:	David
+Notes:
+* Have created a CastleSailingClub user on GitHub, and
+* have got my head around Git Cola & the command line in Linux.
+So most update information will now be on GitHub.
+
+--- end of update ---
+
 Time: 	15-12-13, 01:20
 Coder:	David
 Notes:
