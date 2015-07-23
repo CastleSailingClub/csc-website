@@ -20,13 +20,13 @@ always be!) but the idea is that:
    beginning and end of each <pagename>.php to bring in the boilerplate code that 
    needs to surround it.
 
-2) Any common code required for each page is handled in a template file called 
-   "htmlPage.php" and which is located in the <library> directory in this folder.  
-   Typically, the boilerplate code includes all the page header stuff and footer 
-   stuff.  It also defines the layout of the whole page, but this has to be 
-   considered in conjunction with the .css file.  So if you want to change 
+2) Any common code required for each page is handled by a class file called 
+   "htmlPage.class.php" and which is located in the <library> directory in this 
+   folder.  Typically, the boilerplate code includes all the page header stuff 
+   and footer stuff.  It also defines the layout of the whole page, but this has 
+   to be considered in conjunction with the .css file.  So if you want to change 
    anything to do with the page layout throughout the site, do this *once* in 
-   htmlPage.php.
+   htmlPage.class.php.
 
 3) All the information that is repeated from page to page throughout the site 
    (such as club name, the tagline, the menu labels and links etc) is extracted 
@@ -42,7 +42,8 @@ always be!) but the idea is that:
 5) The basic approach used in programming is Object Orientated.  It's hardly 
    rocket science as far as the individual content pages are concerned and the 
    comments in template.php (see <library> ) should help.  It's a bit more slick in 
-   htmlPage.php, but if you've got that far, you should be more confident in OOphp.
+   htmlPage.class.php, but if you've got that far, you should be more confident in 
+   OOphp.
 
 Layout Rationale
 ================
@@ -53,13 +54,13 @@ Layout Rationale
 
 8) ...all the boilerplate files used by the <pagename.php>s are held in the 
   <library> directory.  These consist of:
-   - "htmlPage.php" (the class definition for the template page), 
+   - "htmlPage.class.php" (the class definition for the template page), 
    - "htmlPage.ini" (the ini file containing definitions of the basic template 
      data such as site title, menu definitions, etc)),
    - "htmlPage.css" (the CSS file for the template page), and
    - "template.php" (the pro forma for a basic site web page).  This page may be 
-     copied into the root directory and renamed as appropriate o create a new 
-     page for the website.
+     copied into the root directory and renamed as appropriate to create a new 
+     page for the website if required.
 
 8a) I've now (7feb2015) done an update so that the contact details for the club 
     are held in a separate file in the root directory, called "contact-info.ini".  
