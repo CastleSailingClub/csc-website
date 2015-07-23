@@ -6,7 +6,7 @@
  * re-use on every page.
  * 
  * @author David Argles <d.argles@gmx.com>
- * @version 23-07-2015, 21:17h
+ * @version 23-07-2015, 22:49h
  * @copyright 2015 Haven Consulting
  */
 
@@ -144,21 +144,22 @@ echo("</pre>");*/
     public function HTMLstreamTop()
     {
 ?>
+<!DOCTYPE HTML>
 <html>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta generator="SimpleSite 1.0">
-    <meta author="Haven Consulting: d.argles@gmx.com">
+    <meta name="generator" content="SimpleSite 1.0">
+    <meta name="author" content="Haven Consulting: d.argles@gmx.com">
     <link rel="stylesheet" type="text/css" <?php echo("href=\"library/".$this->cssfile."\""); ?>>
     <!--[if lt IE 9]><script src="library/html5shiv.js"></script><![endif]-->
     <title><?php echo($this->title); ?></title>
   </head>
 
   <body>
-    <container> 
+    <main> 
       <header>
-        <?php echo("<img src=\"graphics/".$this->logo."\" />\n"); ?>
+        <?php echo("<img src=\"graphics/".$this->logo."\" alt=\"Club logo\" />\n"); ?>
         <h3><?php echo($this->heading); ?></h3>
         <p><?php echo($this->tagline); ?></p>
       </header>
@@ -191,7 +192,7 @@ echo("</pre>");*/
     <footer>
       <?php echo("<p>&copy;".$this->copy."</p>\n"); ?>
     </footer>
-   </container>
+   </main>
   </body>
 </html>
 <?php 

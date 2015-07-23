@@ -27,7 +27,7 @@
       <p>Launching and recovery is possible at all states of the tide.  Close by are Ashlett Creek, Southampton Water and the River Hamble.  Our location at the centre of the Solent means easy access to the Bromwich beaches, Beaulieu River and on the Island side, Wooton, Cowes and Newtown Creek.  Sailors will also see the regular movements of Southampton Port shipping and the action surrounding events like Cowes Week and the Round the Island race.</p>
       <p>The club has no safety boat and thus has no formal racing or training propgramme.  We are however affiliated with the <a href="http://www.swsa.org.uk/" target="_blank">Southampton Water Sailing Association</a> which has a race programme for members.</p>
 
-      <img src="graphics/SO451BR-Calshot.jpg" />
+      <img src="graphics/SO451BR-Calshot.jpg" alt="Calshot arial photo" />
 
       <h3>Facilities</h3>
       <p>There are basic facilities (kettle and microwave) in the clubhouse with changing facilities and limited equipment storage.  The clubhouse is on the shore side of the secure Calshot Activities Centre sailing compound.  Toilets and showers are provided nearby.</p>

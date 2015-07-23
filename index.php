@@ -8,7 +8,7 @@
  * of our boilerplate code.
  * 
  * @author David Argles <d.argles@gmx.com>
- * @version 23-07-2015, 21:14h
+ * @version 23-07-2015, 22:49h
  * @copyright 2015 Haven Consulting
  */
 
@@ -37,7 +37,7 @@
       -->
 
       <h3>Castle Sailing Club</h3>
-      <img src="graphics/bosham.jpg">
+      <img src="graphics/bosham.jpg" alt="Sailing picture" />
       <p>Castle Sailing Club is a relaxed dinghy sailing club with all-tide access to Southampton Water and the Solent.  It is based at the tip of Calshot Spit in Southampton Water, close to Calshot Castle, the historic flying boat hangers, and Calshot Activities Centre.  The Centre is one of the country's most popular watersports locations which also has a state of the art climbing complex, the only indoor velodrome in southern England, a dry ski slope, and extensive camping facilities.</p>
 
       <!-- End of main page content -->
