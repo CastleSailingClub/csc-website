@@ -6,8 +6,8 @@
  * & streams the completed boilerplate code.
  * 
  * @author David Argles <d.argles@gmx.com>
- * @version 23-12-2013, 17:08h
- * @copyright 2013 Haven Consulting
+ * @version 23-07-2015, 21:15h
+ * @copyright 2015 Haven Consulting
  */
 
   /* The following line makes the server display error messages.
@@ -16,7 +16,7 @@
 
   /* The next two lines bring in the htmlPage class and create a new instance.
      Don't change these lines! */
-  require("library/htmlPage.php");
+  require("library/htmlPage.class.php");
   $page = new htmlPage();
   /* The next line streams the initial html.  Don't change this. */
   $page->HTMLstreamTop();

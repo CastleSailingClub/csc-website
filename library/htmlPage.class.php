@@ -6,8 +6,8 @@
  * re-use on every page.
  * 
  * @author David Argles <d.argles@gmx.com>
- * @version 16-12-2013, 06:08h
- * @copyright 2013 Haven Consulting
+ * @version 23-07-2015, 21:17h
+ * @copyright 2015 Haven Consulting
  */
 
   /**

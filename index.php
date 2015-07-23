@@ -8,8 +8,8 @@
  * of our boilerplate code.
  * 
  * @author David Argles <d.argles@gmx.com>
- * @version 18-12-2013, 18:14h
- * @copyright 2013 Haven Consulting
+ * @version 23-07-2015, 21:14h
+ * @copyright 2015 Haven Consulting
  */
 
   /* The following line makes the server display error messages.
@@ -19,7 +19,7 @@
 
   /* The next two lines bring in the htmlPage class and create a new instance.
      Don't change these lines! */
-  require("library/htmlPage.php");
+  require("library/htmlPage.class.php");
   $page = new htmlPage();
   /* The next line streams the initial page html.  Don't change this. */
   $page->HTMLstreamTop();
